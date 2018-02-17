@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VelikovaCard</string>
+    <string name="title_text_string">Център за Личностно Развитие Великова</string>
+    <string name="web_address_string">www.velikova.eu</string>
+    <string name="web_address_string2">http://velikova.eu</string>
+    <string name="phone_number_string">+(359) 877 133 993</string>
+    <string name="email_string">office@velikova.eu</string>
+</resources>
